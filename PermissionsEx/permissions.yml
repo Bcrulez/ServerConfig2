@@ -7039,8 +7039,8 @@ groups:
         - ch.alias.carryplayer
         - ch.alias.dropplayer
         - powers.haste
-        - powers.run
         - powers.jump
+        - powers.run
   obiwankenobi:
     inheritance:
     - commonherotraits
