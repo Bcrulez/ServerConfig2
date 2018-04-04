@@ -9112,6 +9112,9 @@ groups:
         permissions:
         - ch.alias.carryplayer
         - ch.alias.dropplayer
+        - ch.alias.jump
+        - powers.haste
+        - powers.run
   batmite:
     inheritance:
     - commonherotraits
