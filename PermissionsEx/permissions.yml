@@ -6401,6 +6401,11 @@ groups:
         - ch.alias.create
         - libsdisguises.disguise.wolf
         - libsdisguises.disguise
+        - kill.immune
+        - immune.destroyworld
+        - essentials.fly
+        - ch.alias.glowoff
+        - ch.alias.glowon
   trigon:
     inheritance:
     - commonherotraits
