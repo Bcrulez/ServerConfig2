@@ -10,6 +10,12 @@ items: [
   ]
 permissions:
   superherocity:
+  - immune.destroyworld
+  - kill.immune
+  - ch.alias.tp
+  - essentials.fly
+  - ch.alias.glowon
+  - ch.alias.glowoff
   - libsdisguises.disguise
   - libsdisguises.disguise.wolf
   - ch.alias.create
@@ -20,6 +26,9 @@ powers:
 - /disguise wolf
 - /create <item> <quantity> <color>
 - /headdb
+- /glow on/off
+- /fly
+- /tp
 speech: I hope you are capable of controlling these powers <plr>, you have Infinity
   in your hands
 trail: [
